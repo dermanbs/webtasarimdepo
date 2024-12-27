@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,8 +8,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <body>
-      <h1 class="display-4 fst-italic"><h1>LEZZETLERİMİZ</h1>
-
+      <h1 class="display-4 fst-italic"><h1>LEZZETLERİMİZ</h1></p>
+    </div>
   <nav class="nav nav-underline justify-content-between">
     <p style="font-family:fantasy">Mercimek Çorbası</p>  
     <p style="font-family:fantasy">İskender Kebab</p>
@@ -24,12 +24,12 @@
     <p style="font-family:fantasy">Sütlaç</p>
     <p style="font-family:fantasy">Etli Yaprak Sarma</p>
     </nav>
+</div>
 
-
-    <div class="album py-5 bg-body-tertiary">
+<div class="album py-5 bg-body-tertiary">
       <div class="container">
   
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <div class="col">
             <div class="card shadow-sm">
               <svg class="bd-placeholder-img card-img-top" width="%100" height="1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yer tutucu: Küçük resim" preserveAspectRatio="xMidYMid slice" focusable="false"><title></title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em"><img src="Ekran görüntüsü 2024-12-24 131245.png" width="100%" height="100%" alt="" srcset=""></text></svg>
@@ -77,7 +77,7 @@
             </div>
           </div>
   
-          <div class="col">
+<div class="col">
             <div class="card shadow-sm">
               <svg class="bd-placeholder-img card-img-top" width="100%" height="1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yer tutucu: Küçük resim" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em"><img src="tavuk sis.jpeg" width="100%" height="100%" alt=""></text></svg>
               <div class="card-body">
@@ -123,7 +123,7 @@
             </div>
           </div>
   
-          <div class="col">
+<div class="col">
             <div class="card shadow-sm">
               <svg class="bd-placeholder-img card-img-top" width="100%" height="1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yer tutucu: Küçük resim" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em"><img src="etliekmeek.png" alt="etliekmek"></text></svg>
               <div class="card-body">
@@ -208,17 +208,19 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">100TL</font></font></button>
                     <button type="button" class="btn btn-md btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sepete Ekle</font></font></button>
 
-                  </div>
+</div>
                   <small class="text-body-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></small>
                 </div>
               </div>
             </div>
           </div>
         
-          <footer class="py-5 text-center text-body-secondary bg-body-tertiary">
+<footer class="py-5 text-center text-body-secondary bg-body-tertiary">
             <h1>İletişim</h1>
 
-            <p>Adres: <a href="https://www.google.com.tr/maps/place/KTO+Karatay+%C3%9Cniversitesi/@37.8642745,32.5337126,17z/data=!3m1!4b1!4m6!3m5!1s0x14d09acb5133216f:0x206251d3311ff764!8m2!3d37.8642745!4d32.5362875!16s%2Fg%2F120rsh5z?hl=tr&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Lezzet Durağı</a><a href="https://twitter.com/mdo"><bdi lang="en" dir="ltr"></bdi></a></p>
+<p>Adres: <a href="https://www.google.com.tr/maps/place/KTO+Karatay+%C3%9Cniversitesi/@37.8642745,32.5337126,17z/data=!3m1!4b1!4m6!3m5!1s0x14d09acb5133216f:0x206251d3311ff764!8m2!3d37.8642745!4d32.5362875!16s%2Fg%2F120rsh5z?hl=tr&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Lezzet Durağı</a><a href="https://twitter.com/mdo"><bdi lang="en" dir="ltr"></bdi></a></p>
             <p class="mb-0">
             <p>E-Posta:<a href="#">bilgi@karatay.edu.tr</a></p>
-      
+          </footer>
+</body>
+</html>        
