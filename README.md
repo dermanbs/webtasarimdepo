@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lezzet Durağı</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lezzet Durağı</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <body>
-      <h1 class="display-4 fst-italic"><h1>LEZZETLERİMİZ</h1></p>
-    </div>
-  <nav class="nav nav-underline justify-content-between">
+<h1 class="display-4 fst-italic"><h1>LEZZETLERİMİZ</h1></p>
+</div>
+<nav class="nav nav-underline justify-content-between">
     <p style="font-family:fantasy">Mercimek Çorbası</p>  
     <p style="font-family:fantasy">İskender Kebab</p>
     <p style="font-family:fantasy">Tavuk Şiş Izgara</p>
@@ -23,7 +23,7 @@
     <p style="font-family:fantasy">Baklava</p>
     <p style="font-family:fantasy">Sütlaç</p>
     <p style="font-family:fantasy">Etli Yaprak Sarma</p>
-    </nav>
+</nav>
 </div>
 
 <div class="album py-5 bg-body-tertiary">
